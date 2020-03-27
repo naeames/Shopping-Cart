@@ -1,0 +1,32 @@
+h2{color:#138496; }
+
+.c{display: flex;}
+.navbar {display: flex;
+  background-color: grey;}
+
+.navbar-color{display: flex; justify-content: right;}
+span.price {
+    float: right;
+    color:black;
+    margin-bottom:15px;
+  }
+  button{  
+  margin:20px;
+  
+  }
+  a{
+  margin-right:10px;
+  }
+
+  .remove{
+  margin-left:10px;
+  background-color:whitesmoke;
+  border:none;
+  }
+  
+  .container{display:flex;flex-direction: column;
+    background-color:rgb(180, 180, 180);border:3px solid lightgrey;width:400%;margin:20px 60px;padding:40px;}
+.min{margin-left:90px;}
+.u{margin-left:115px;}
+.l{margin-left: 145px;}
+
