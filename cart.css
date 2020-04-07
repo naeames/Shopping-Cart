@@ -8,12 +8,11 @@ h2{color:#138496; }
 span.price {
     float: right;
     color:black;
-    margin-bottom:15px;
+    margin-bottom:25px;
   }
   button{  
-  margin:20px;
-  
-  }
+  margin:20px;}
+
   a{
   margin-right:10px;
   }
@@ -29,4 +28,8 @@ span.price {
 .min{margin-left:90px;}
 .u{margin-left:115px;}
 .l{margin-left: 145px;}
-
+.pr1{margin-left:90px ;margin-right: 50px;}
+.pr2{margin-left:70px ;margin-right: 80px;}
+.pr3{margin-left:130px ;margin-right: 20px;}
+.pr4{margin-left:70px ;margin-right: 80px;}
+.i{margin-top: 30px;}
